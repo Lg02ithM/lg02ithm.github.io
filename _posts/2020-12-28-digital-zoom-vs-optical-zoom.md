@@ -1,3 +1,12 @@
+---
+layout: post
+title: Flake it till you make it
+subtitle: Excerpt from Soulshaping by Jeff Brown
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [books, test]
+---
 With the recent rise in popularity of telephoto lenses on smartphones, we have come to see bold claims
 from manufacturers like 30X zoom or even 100X superzoom. A friend of mine who recently purchased a
 S20 Ultra said to me “The picture quality looks good up to 25X zoom, but after that it becomes very
