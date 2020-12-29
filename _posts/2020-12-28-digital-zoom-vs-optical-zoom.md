@@ -3,7 +3,7 @@ layout: post
 title: Optical Zoom vs Digital Zoom
 subtitle: Different approaches to zoom - Optical vs Digital
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/zoomlens.jpg
 share-img: /assets/img/path.jpg
 tags: [blogs, camera, photography]
 ---
