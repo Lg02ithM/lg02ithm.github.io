@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: So, who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, my name is Aniket and here are some facts about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love new tech, photography and playing computer games
+- I also like to read interesting things
 
-What else do you need?
+I am currently pursuing my MBA degree. I live in Lucknow - city of nawabs and kebabs. So, if you happen to visit Lucknow - let me know and we might just go on a kebab expedition together.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
