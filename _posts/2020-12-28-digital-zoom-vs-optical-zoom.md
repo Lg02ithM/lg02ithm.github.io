@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Optical Zoom vs Digital Zoom
+subtitle: Different approaches to zoom - Optical vs Digital
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [blogs, camera, photography]
 ---
 With the recent rise in popularity of telephoto lenses on smartphones, we have come to see bold claims
 from manufacturers like 30X zoom or even 100X superzoom. A friend of mine who recently purchased a
