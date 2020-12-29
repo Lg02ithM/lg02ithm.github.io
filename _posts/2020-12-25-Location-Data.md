@@ -3,7 +3,7 @@ layout: post
 title: Location data as a macroeconomic indicator
 subtitle: Interesting possible uses of location data
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/location.png
 share-img: /assets/img/path.jpg
 tags: [geolocation, economics]
 ---
