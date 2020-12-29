@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Location data as a macroeconomic indicator
-subtitle: Interesting popssible uses of location data
+subtitle: Interesting possible uses of location data
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [blogs, camera, photography]
+tags: [geolocation, economics]
 ---
 
 The year 2020 has been a weird year. The COVID pandemic spread throughout the world at an alarming
