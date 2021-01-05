@@ -28,7 +28,7 @@ Going forward, we would be examining the following concepts related to cryptogra
 03. KDF (Key Derivation Function)
 04. Key Exchange
 
-###Hash functions
+### Hash functions
 In computer programming, the primary function of a hash function is to map text to integers. In our case
 of cryptographic hash functions, they are used to transform text/binary data to fixed length hash values
 which have to be collision resistant and the process must be irreversible in nature.
@@ -39,7 +39,7 @@ For example, we will consider a=1, b=2, c=3 and so on, and we will denote hash o
 So, let us consider the two inputs – “abc” and “cab”
 Thus,
 
->H(abc) = 1 + 2 + 3 = 6
+>H(abc) = 1 + 2 + 3 = 6/b
 >H(cab) = 3 + 1 + 2 = 6
 
 So, we can clearly see that our basic hash function is not collision resistant and therefore not suitable for
@@ -58,8 +58,8 @@ which have the same hash value.
 Some of the most important applications of hash functions are checking for document integrity and for
 storing passwords. Instead of storing a plaintext password in a database, developers store hashes of the
 password in the database for security reasons.
-Secure Hash Algorithms
-####01. SHA-2, SHA-256, SHA-384, SHA-512
+#### Secure Hash Algorithms
+01. SHA-2, SHA-256, SHA-384, SHA-512
 One of the most widely used hash functions, they are based on the Merkle–Damgård construction. They
 are considered good enough for most commercial applications. Within this family, higher number of
 output hash bits result in greater collision resistance.
