@@ -60,13 +60,15 @@ Some of the most important applications of hash functions are checking for docum
 storing passwords. Instead of storing a plaintext password in a database, developers store hashes of the
 password in the database for security reasons.
 #### Secure Hash Algorithms
-01. SHA-2, SHA-256, SHA-384, SHA-512 : One of the most widely used hash functions, they are based on the Merkle–Damgård construction. They
+##### SHA-2, SHA-256, SHA-384, SHA-512
+One of the most widely used hash functions, they are based on the Merkle–Damgård construction. They
 are considered good enough for most commercial applications. Within this family, higher number of
 output hash bits result in greater collision resistance.
 
 So, SHA-512 > SHA-384 > SHA-256 where 512, 384 and 256 are the number of bits in the hash.
 
-02. SHA-3, SHA3-256, SHA3-512, Keccak-256 : These hash functions are considered to be more secure than SHA-2 functions for the same hash length.
+##### SHA-3, SHA3-256, SHA3-512, Keccak-256
+These hash functions are considered to be more secure than SHA-2 functions for the same hash length.
 These functions are based on the cryptographic concept of sponge construction and they are not
 vulnerable to length-extension attacks.
 
