@@ -59,7 +59,9 @@ which have the same hash value.
 Some of the most important applications of hash functions are checking for document integrity and for
 storing passwords. Instead of storing a plaintext password in a database, developers store hashes of the
 password in the database for security reasons.
+
 #### Secure Hash Algorithms
+
 ##### SHA-2, SHA-256, SHA-384, SHA-512
 One of the most widely used hash functions, they are based on the Merkle–Damgård construction. They
 are considered good enough for most commercial applications. Within this family, higher number of
