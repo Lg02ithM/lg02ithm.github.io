@@ -39,7 +39,8 @@ For example, we will consider a=1, b=2, c=3 and so on, and we will denote hash o
 So, let us consider the two inputs – “abc” and “cab”
 Thus,
 
->H(abc) = 1 + 2 + 3 = 6 /b
+>H(abc) = 1 + 2 + 3 = 6
+
 >H(cab) = 3 + 1 + 2 = 6
 
 So, we can clearly see that our basic hash function is not collision resistant and therefore not suitable for
