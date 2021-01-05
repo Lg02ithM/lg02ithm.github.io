@@ -79,5 +79,5 @@ Keccak-256 is a variant of SHA3-256 with some constants changed in the code.
 SHAKE128(message, length) and SHAKE256(message, length) are variants of SHA3-256 and SHA3-512
 where the output hash can be of any desired length.
 
-*Some other hash functions are MD5, SHA-0, SHA-1 – but these should not be used as they are
+*Some other hash functions are MD5, SHA-0, SHA-1 : but these should not be used as they are
 considered to be cryptographically insecure.*
