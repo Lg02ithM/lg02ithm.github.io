@@ -64,14 +64,19 @@ password in the database for security reasons.
 One of the most widely used hash functions, they are based on the Merkle–Damgård construction. They
 are considered good enough for most commercial applications. Within this family, higher number of
 output hash bits result in greater collision resistance.
+
 So, SHA-512 > SHA-384 > SHA-256 where 512, 384 and 256 are the number of bits in the hash.
 02. SHA-3, SHA3-256, SHA3-512, Keccak-256
 These hash functions are considered to be more secure than SHA-2 functions for the same hash length.
 These functions are based on the cryptographic concept of sponge construction and they are not
 vulnerable to length-extension attacks.
+
 Keccak-256 is a variant of SHA3-256 with some constants changed in the code.
+
 SHAKE128(message, length) and SHAKE256(message, length) are variants of SHA3-256 and SHA3-512
 where the output hash can be of any desired length.
+
 Some other examples of include BLAKE2 and RIPEMD-160.
+
 Some other hash functions are MD5, SHA-0, SHA-1 – but these should not be used as they are
 considered to be cryptographically insecure.
