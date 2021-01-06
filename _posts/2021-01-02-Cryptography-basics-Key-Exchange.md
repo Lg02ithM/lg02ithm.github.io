@@ -29,8 +29,7 @@ Let’s take a short detour and understand the primitive root modulo concept. I 
 understood with the help of an example. So, we have the numbers 3 and 7.
 Here 3 is primitive root modulo 7.
 
-This means that when all possible powers of 3 when divided by 7, will give us remainders 1,2,3,4,5 and
-6. So, the remainders will be values from 1 to (7 – 1)
+This means that when all possible powers of 3 when divided by 7, will give us remainders 1,2,3,4,5 and 6. 
 
 >3<sup>1</sup> = 3 -> 3 % 7 = 3
 >
