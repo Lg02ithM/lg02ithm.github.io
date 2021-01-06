@@ -7,6 +7,8 @@ thumbnail-img: /assets/img/MAC.png
 share-img: /assets/img/path.jpg
 tags: [cryptography, security, MAC, KDF]
 ---
+In this article, we would be going further into basic cryptography concepts and would take a look at Message Authentication Code or MAC
+and Key Derivation Function (KDF). Also, this article is in continuation to the previous article on cryptography basics and hash functions.
 
 ### Message Authentication Code (MAC)
 
