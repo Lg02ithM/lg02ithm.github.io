@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cryptography basics - MAC & KDF
+title: Cryptography basics - Key Exchange
 subtitle: A brief introduction to MAC & KDF in cryptography
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/MAC.png
+thumbnail-img: /assets/img/Key_Exchange.png
 share-img: /assets/img/path.jpg
 tags: [cryptography, security, MAC, KDF]
 ---
