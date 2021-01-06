@@ -3,7 +3,7 @@ layout: post
 title: Risk management in IT - Calculating risks
 subtitle: How do we calculate risks?
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/Risk03.jpeg
+thumbnail-img: /assets/img/Risk03.jpg
 share-img: /assets/img/path.jpg
 tags: [IT, Risk, Management]
 ---
