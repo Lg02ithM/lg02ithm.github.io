@@ -5,7 +5,7 @@ subtitle: A brief introduction to MAC & KDF in cryptography
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Key_Exchange.png
 share-img: /assets/img/path.jpg
-tags: [cryptography, security, MAC, KDF]
+tags: [cryptography, security, DHKE]
 ---
 
 In this final article on cryptography, we would take a look at Key Exchange algorithms. We would also take a closer look 
