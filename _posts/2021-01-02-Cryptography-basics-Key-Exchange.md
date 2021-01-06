@@ -59,14 +59,19 @@ Party 1 will calculate the value A = g<sup>a</sup> % p
 
 Party 2 will calculate the value B = g<sup>b</sup> % p
 
-B = 5<sup>3</sup> % 23 = 125 % 23 = 10 **(B = 10)**
+>B = 5<sup>3</sup> % 23 = 125 % 23 = 10 **(B = 10)**
+
 At this stage, both parties will share their values with each other.
 
 Now,
-Party 1 will calculate the value B<sup>a</sup> % p (= g<sup>ba</sup> % p)
-Which is 10<sup>2</sup> % 23 = 8
-Party 2 will calculate the value A<sup>b</sup> % p (=g<sup>ab</sup> % p)
-Which is 2<sup>3</sup> % 23 = 8
+
+Party 1 will calculate the value **B<sup>a</sup> % p (= g<sup>ba</sup> % p)**
+
+>10<sup>2</sup> % 23 = 8
+
+Party 2 will calculate the value **A<sup>b</sup> % p (=g<sup>ab</sup> % p)**
+
+>2<sup>3</sup> % 23 = 8
 
 We can see that both the parties arrive at the same value 8, and this will now be considered as the
 shared secret.
