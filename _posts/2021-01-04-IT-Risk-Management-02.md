@@ -10,7 +10,7 @@ tags: [IT, Risk, Management]
 In the previous article, we went over the definitions of risks and threats.
 Now, we would try to understand how to categorize risks and threats.
 
-#### Types of risk
+### Types of risk
 
 01. **Strategic risk**
 
@@ -39,15 +39,16 @@ It refers to the risk of losing company’s reputation or its
 community standing due to product failures, lawsuits or negative
 publicity. For example, when news about Apple’s planned software
 obsolescence spread, it suffered widespread backlash.
-Some other examples of risks might be environmental risks. A
+
+*Some other examples of risks might be environmental risks. A
 natural calamity like floods, hurricanes can cause widespread
 damage to any company. Another type of risk is employment risks.
 Any organization needs employees to get job done. However, there
 exists a risk of rogue employees — people who leak sensitive
 internal information to competitors. We can also have a risk of
-having sub-standard employees or even shortage of employees.
+having sub-standard employees or even shortage of employees.*
 
-#### Types of threats
+### Types of threats
 
 01. **Adversarial threats**
 
