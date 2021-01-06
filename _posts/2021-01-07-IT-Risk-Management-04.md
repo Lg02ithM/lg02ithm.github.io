@@ -3,7 +3,7 @@ layout: post
 title: Risk management in IT - Handling risks
 subtitle: Proper ways of risk handling
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/Risk04.jpg
+thumbnail-img: /assets/img/Risk04.png
 share-img: /assets/img/path.jpg
 tags: [IT, Risk, Management]
 ---
