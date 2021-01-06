@@ -3,7 +3,7 @@ layout: post
 title: Risk management in IT - Types of risks and threats
 subtitle: An overview on the types of risks and threats in IT
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/Risk02.png
+thumbnail-img: /assets/img/Risk02.jpeg
 share-img: /assets/img/path.jpg
 tags: [IT, Risk, Management]
 ---
