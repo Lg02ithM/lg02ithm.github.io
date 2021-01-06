@@ -3,7 +3,7 @@ layout: post
 title: Cryptography basics - Hash functions
 subtitle: A brief introduction to hash functions in cryptography
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/hash.jpg
+thumbnail-img: /assets/img/hash.png
 share-img: /assets/img/path.jpg
 tags: [cryptography, security, hashing]
 ---
