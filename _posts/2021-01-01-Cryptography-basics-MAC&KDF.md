@@ -8,8 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [cryptography, security, MAC, KDF]
 ---
 
-*This article in in continuation with the previous article which were focussed on the basic concepts of cryptography and hash functions.*
-
 ### Message Authentication Code (MAC)
 
 MAC refers to a cryptographic code calculated using a given key and a given input message. It behaves
