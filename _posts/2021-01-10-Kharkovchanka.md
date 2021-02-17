@@ -13,7 +13,7 @@ that he would encounter at work and I loved them. I also dreamt of driving them 
 would be centred around machines and other engineering marvels. And in this first article of the series, we would be taking a look at the mighty Kharkovchanka - Soviet 
 designed snow cruisers which were crucial in the Antarctic exploration.
 
-#### Early exploration
+### Early exploration
 America was one of the first countries which made special vehicles designed for the sole purpose of Antarctic expedition. Considering the harsh climate of the region,
 America needed something that was robust, easily repairable and most importantly something which would protect its inhabitants from the freezing weather outside. Their 
 answer was the Antarctic Snow Cruiser - a futuristic looking vehicle which would serve as the mothership for the Antarctic expedition of 1939. 
@@ -25,4 +25,10 @@ out repairs without exposing themselves to the cold harsh weather outside. Howev
 disaster when it finally arrived in the Antarctic. The tyres were not well suited for the snow and the vehicle was terribly underpowered. Then came the World War II and
 America ended the whole Antarctic expedition prematurely. These vehicles were last sighted in 1958 by an international expedition and have been lost ever since.
 
-#### Soviet Antarctic Expeditions
+### Soviet Antarctic Expeditions
+Now, the Soviet were a bit late to the party when it came to the Antarctic exploration, which is ironic considering the fact that the first sighting of Antactica is now widely acknowledged to have taken place in January 1820 during the voyage of two russian ships - Vostok and Mirnyi. Nevertheless, as the International Geophysical Year opened up in 1957, they came up with bold plans to explore the frozen wasteland. The first Soviet expedition started in 1955 and they established their first base - Mirnyi. Most of the machines that they carried during this time was simple military or civilian tractors. But they soon realized that they needed something better to deal with the harsh environment of the Antarctic. So, during their second mission, they came prepared with the mighty ATT tractors - precursor to the Kharkovchanka. These were trucks built on top of a heavy artillery platform in the famous Kharkov machine building plant in Ukraine - most famous for producing the T-54/T-55 battle tanks. Some of these tanks are still in service today. Anyway, these ATT tractors were much better suited for Antarctic exploration, however, some issues still remained. The later version of the ATT tractors came with wider tracks and turbochargers. But, it was clear that incremental updates were not the solution and that the Soviet needed to make something from scratch - a vehicle designed solely for purpose of Antarctic exploration.
+
+<a title="Billyhill, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AT-T_Dresden.JPG"><img width="512" alt="AT-T Dresden" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/AT-T_Dresden.JPG/512px-AT-T_Dresden.JPG"></a>
+
+
+
