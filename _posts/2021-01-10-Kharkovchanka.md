@@ -32,7 +32,7 @@ Now, the Soviet were a bit late to the party when it came to the Antarctic explo
 
 For the fourth Soviet Antarctic expedition, something big had been planned - a full traversal of the Antarctic from the Mirnyi base to the geographic South Pole which would cover a distance of over 5000 km across some of the harshest and least explored terrains on the planet. The Soviet already had a capable platform (the large upgraded ATT tractors) and had gathered a lot of experience from their previous missions. So, for this ambitious mission a new vehicle was commissioned. They wanted this vehicle to retain the pulling power of the old tractors and also add accomodation for crew members inside. And in order to design such a cabin they needed help from the Kharkov Aviation Plant. They helped design and build a futuristic cabin made from aircraft grade duralumin (to reduce the weight) which was insulated with multiple layers of nylon. The cabin space they designed had an integrated living & working space, sleeping bunks, airline style toilets and place for cooking. They also had small glass domes for taking in meteorological readings and for navigation purpose. The entire project - from conceptualization to building the machines was completed in three months with people working day and night to finish the project within deadlines.
 
-<img title="Kharkovchanka" alt="Kharkovchanka" href="Antarctica.gov" src="/assets/img/SnowCruiser.jpeg">
+<img title="Kharkovchanka" alt="Kharkovchanka" href="Antarctica.gov" src="/assets/img/404c.png">
 
 
 
